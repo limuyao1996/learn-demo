@@ -8,4 +8,8 @@ module.exports.sayHi = function () {
     console.log('Hi! module1')
 }
 
+module.exports.sayHello = function () {
+    console.log('Hello! module1')
+}
+
 module.exports.Vue = Vue;
